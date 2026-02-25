@@ -1,5 +1,0 @@
-f = open("C:/Users/honor/OneDrive/Рабочий стол/Шурмелева_СА/output.txt", "w", encoding="utf-8")
-print("Имя: Шурмелева София", file=f)
-print("Возраст: 18 лет", file=f)
-print("Группа: 4731204_50001", file=f)
-f.close()
